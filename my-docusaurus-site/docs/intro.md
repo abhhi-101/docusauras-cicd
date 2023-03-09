@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Docusaurus in less than 2 minutes**.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ npx @docusaurus/init@latest init my-website classic
 Run the development server:
 
 ```shell
-cd my-website
+cd your-website
 
 npx docusaurus start
 ```

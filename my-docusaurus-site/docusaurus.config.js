@@ -13,8 +13,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-  url: 'https://<YOUR_BUCKET_NAME>.storage.googleapis.com',
-  baseUrl: '/',
   presets: [
     [
       '@docusaurus/preset-classic',
